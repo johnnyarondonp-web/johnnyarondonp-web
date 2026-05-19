@@ -1,10 +1,11 @@
 <div align="center">
   <h1>Hola, soy Johnny Rondón</h1>
-  <p><strong>Desarrollador Full-Stack | Especializado en el desarrollo de sistemas web con Laravel y React</strong></p>
+  <p><strong>Ingeniero en Informática | Desarrollador Full-Stack</strong></p>
   
   <p>
     <a href="mailto:johnnyarondonp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/johnnyarondonp-web"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/johnny-rond%C3%B3n-9064962b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/johnny.a307/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 
@@ -12,7 +13,7 @@
 
 ### Sobre Mí
 
-Mi camino en el desarrollo web comenzó cuando descubrí el potencial de modificar y construir interfaces desde cero. Desde entonces, he evolucionado mi stack tecnológico desde las bases de PHP hasta especializarme en la creación de aplicaciones web estructuradas utilizando Laravel, TypeScript y React.
+Mi camino en el desarrollo web comenzó cuando descubrí el potencial de modificar y construir interfaces desde cero. Hoy, como **Ingeniero en Informática**, me especializo en la creación de aplicaciones y sistemas web estructurados utilizando Laravel, TypeScript y React, siempre bajo una metodología rigurosa y con atención minuciosa al detalle.
 
 Mi enfoque al programar se basa en dos principios:
 
@@ -93,3 +94,11 @@ Mi enfoque al programar se basa en dos principios:
 
 *   Continuar profundizando en arquitecturas backend robustas y optimización de bases de datos.
 *   Explorar el desarrollo de aplicaciones móviles (Mobile Development) a mediano plazo.
+
+---
+
+### 📫 Contacto
+
+*   **LinkedIn:** [Johnny Rondón](https://www.linkedin.com/in/johnny-rond%C3%B3n-9064962b8/)
+*   **Instagram:** [@johnny.a307](https://www.instagram.com/johnny.a307/)
+*   **Email:** [johnnyarondonp@gmail.com](mailto:johnnyarondonp@gmail.com)
