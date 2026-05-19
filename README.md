@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Github_profile_banner.png" width="100%" alt="Johnny Rondon Banner" style="border-radius: 12px; margin-bottom: 20px;" />
+<img src="github_profile_banner.png" width="100%" alt="Johnny Rondon Banner" style="border-radius: 12px; margin-bottom: 20px;" />
 
   <h1>Hola, soy Johnny Rondón</h1>
   <p><strong>Desarrollador Full-Stack | Especializado en el desarrollo de sistemas web con Laravel y React</strong></p>
