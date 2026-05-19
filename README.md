@@ -74,17 +74,16 @@ Mi enfoque al programar se basa en dos principios:
 *   Explorar el desarrollo de aplicaciones móviles (Mobile Development) a mediano plazo.
 
 ---
-
 ### Estadísticas de GitHub
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=johnnyarondonp-web&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=johnnyarondonp-web&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyarondonp-web&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes más usados" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=johnnyarondonp-web&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes más usados" />
       </td>
     </tr>
   </table>
