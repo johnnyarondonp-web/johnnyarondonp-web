@@ -1,5 +1,4 @@
 <div align="center">
-
   <h1>Hola, soy Johnny Rondón</h1>
   <p><strong>Desarrollador Full-Stack | Especializado en el desarrollo de sistemas web con Laravel y React</strong></p>
   
@@ -23,6 +22,7 @@ Mi enfoque al programar se basa en dos principios:
 ---
 
 ### Stack Tecnológico
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -64,7 +64,6 @@ Mi enfoque al programar se basa en dos principios:
   </tr>
 </table>
 
-
 ---
 
 ### Proyectos Destacados
@@ -94,4 +93,3 @@ Mi enfoque al programar se basa en dos principios:
 
 *   Continuar profundizando en arquitecturas backend robustas y optimización de bases de datos.
 *   Explorar el desarrollo de aplicaciones móviles (Mobile Development) a mediano plazo.
-
