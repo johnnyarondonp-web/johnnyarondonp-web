@@ -23,25 +23,47 @@ Mi enfoque al programar se basa en dos principios:
 ---
 
 ### Stack Tecnológico
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>Backend y Base de Datos</strong><br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <strong>Backend y Bases de Datos</strong><br/>
+      <ul>
+        <li><strong>Lenguajes:</strong> PHP (8.3+)</li>
+        <li><strong>Frameworks:</strong> Laravel 13 (Ecosistema Breeze, Inertia)</li>
+        <li><strong>Bases de Datos:</strong> SQLite, PostgreSQL, MySQL</li>
+        <li><strong>APIs & HTTP:</strong> RESTful APIs, Axios</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>Frontend y Estilos</strong><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Inertia.js-9553E6?style=flat-square&logo=inertia&logoColor=white" alt="Inertia" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <strong>Frontend y Reactividad</strong><br/>
+      <ul>
+        <li><strong>Lenguajes:</strong> TypeScript, JavaScript (ES6+), HTML5, CSS3</li>
+        <li><strong>Frameworks:</strong> React, Inertia.js, Alpine.js, Blade</li>
+        <li><strong>Estilos:</strong> Tailwind CSS</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Librerías de UI y Componentes</strong><br/>
+      <ul>
+        <li><strong>Animaciones:</strong> Framer Motion</li>
+        <li><strong>Datos & Gráficos:</strong> Recharts</li>
+        <li><strong>Componentes:</strong> Shadcn UI, Radix UI, Lucide Icons</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Herramientas y Calidad de Código</strong><br/>
+      <ul>
+        <li><strong>Testing:</strong> PHPUnit, Vitest, React Testing Library</li>
+        <li><strong>Gestión de Estado:</strong> Zustand</li>
+        <li><strong>Formularios:</strong> React Hook Form</li>
+        <li><strong>Entorno:</strong> Vite, npm, Git, GitHub</li>
+      </ul>
     </td>
   </tr>
 </table>
+
 
 ---
 
