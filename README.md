@@ -73,11 +73,3 @@ Mi enfoque al programar se basa en dos principios:
 *   Continuar profundizando en arquitecturas backend robustas y optimización de bases de datos.
 *   Explorar el desarrollo de aplicaciones móviles (Mobile Development) a mediano plazo.
 
----
-### Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnnyarondonp-web&theme=tokyonight&margin-w=15&margin-h=15" alt="Mis Trofeos de GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnnyarondonp-web&theme=tokyonight" alt="Racha de Contribuciones" />
-</div>
