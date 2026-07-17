@@ -32,7 +32,31 @@ Vite · Git · PHPUnit · React Hook Form · Zustand
 
 ---
 
-### Proyectos
+### Experiencia y Casos de Éxito Freelance
+*Desarrollo de Software Independiente — Enfoque en Backend, Rendimiento & Infraestructura (2025 - Presente)*
+
+Trabajo con clientes bajo estrictos acuerdos de confidencialidad (NDA), rescatando, optimizando y escalando plataformas en producción con desafíos críticos de concurrencia, seguridad y arquitectura.
+
+#### 💬 Arquitectura en Tiempo Real y Alta Concurrencia
+*   **Seguridad & Validación:** Identificación y mitigación de una vulnerabilidad crítica de omisión de autenticación (bypass de contraseña) en paneles administrativos y reestructuración de queries lógicas que exponían registros comprometidos.
+*   **Optimización de Base de Datos:** Eliminación de más de 100 constraints duplicados e implementación de índices compuestos en PostgreSQL, acelerando consultas complejas de chat entre **5x y 10x**.
+*   **Estrategias de Caché:** Integración de capas de persistencia con Redis para mitigar el cuello de botella en la base de datos, reduciendo en un **80%** las lecturas directas por petición.
+*   **Escalabilidad Vertical:** Migración de backend de proceso único a un clúster de producción con PM2 y adaptador Redis para Socket.IO, incrementando masivamente el límite de concurrencia de usuarios simultáneos.
+*   **Pruebas de Estrés:** Diseño y ejecución de suites de pruebas automatizadas con **k6**, simulando cargas intensas de hasta **1,000 usuarios virtuales concurrentes** para garantizar la estabilidad del servicio.
+
+#### 📱 Optimización de Plataformas Sociales y Feeds Dinámicos
+*   **Resolución de Cuellos de Botella:** Diagnóstico y corrección del problema de consultas N+1 en feeds principales mediante carga diferida previa (Eager Loading), reduciendo de **~300 a 0 las queries redundantes** por petición.
+*   **Procesamiento Asíncrono:** Delegación de tareas pesadas de notificación masiva hacia Jobs procesados en background mediante colas (Queues), optimizando el tiempo de respuesta inmediato de la API rest.
+*   **Ciclo de Vida de Datos:** Implementación de políticas de invalidación automática de caché para interacciones en tiempo real de alta frecuencia (estados, likes y suscripciones).
+
+#### 🏢 Infraestructura y Sistemas Corporativos
+*   **Web Performance Optimization (WPO):** Reestructuración de consultas pesadas y renderizado en Next.js, logrando disminuir tiempos de carga iniciales críticos de **~40 segundos** a rangos óptimos de respuesta.
+*   **Single Sign-On (SSO):** Diseño e integración de flujos unificados de inicio de sesión social (Google/Facebook) para compartir ecosistemas de autenticación entre múltiples plataformas independientes.
+*   **Sysadmin & DevOps:** Gestión de despliegues directos a producción en servidores VPS Linux (Ubuntu vía SSH) con configuración de políticas de respaldos automatizados y estrategias ágiles de rollback.
+
+---
+
+### Proyectos Personales
 
 #### [Zoion — Gestión Veterinaria](https://github.com/johnnyarondonp-web/Zoion-sistema)
 Plataforma ERP para clínicas veterinarias con RBAC multinivel y booking en tiempo real.
