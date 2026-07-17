@@ -12,7 +12,7 @@
 
 ---
 
-Desarrollador Full Stack especializado en Laravel y React. Construyo sistemas desde la arquitectura de base de datos hasta la interfaz — con foco en integridad de datos, control de concurrencia y lógica de negocio precisa. Me importa que el código sea predecible, mantenible y correcto antes que impresionante.
+Desarrollador Full Stack especializado en Laravel y React. Construyo sistemas desde la arquitectura de la base de datos hasta la interfaz, priorizando la integridad de los datos, el control de concurrencia y una lógica de negocio precisa. Mi objetivo es escribir código predecible, altamente mantenible y estructurado para resolver problemas en producción.
 
 ---
 
@@ -74,7 +74,7 @@ Plataforma ERP para clínicas veterinarias con RBAC multinivel y booking en tiem
 Sistema de punto de venta con lógica contable FIFO y soporte multi-moneda en tiempo real.
 
 - Inventario por lotes FIFO con trazabilidad de costos por `SaleItem`
-- Cálculo de ganancia real por venta comparando precio de venta contra costo exacto del lote
+- Cálculo de ganancia  por venta comparando precio de venta contra costo exacto del lote
 - Integración con API del BCV (tasa automática cada 30 min con fallback manual)
 - Transacciones atómicas en ventas y cancelaciones con restauración exacta de lotes
 
