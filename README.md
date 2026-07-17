@@ -18,17 +18,23 @@ Desarrollador Full Stack especializado en Laravel y React. Construyo sistemas de
 
 ### Stack
 
-**Backend**
-PHP 8.3+ · Laravel 13 · PostgreSQL · MySQL · SQLite · RESTful APIs · Redis
+**Backend & Bases de Datos**
+PHP 8.3+ · Laravel 13 · Node.js · Next.js · PostgreSQL · MySQL · SQLite · Redis · RESTful APIs
 
-**Frontend**
-React 19 · TypeScript · Inertia.js · Alpine.js · Tailwind CSS · Framer Motion
+**Infraestructura & DevOps**
+PM2 (clúster) · Socket.IO · Docker · VPS (SSH deploy) · Git · GitHub Actions
 
-**UI & Componentes**
-shadcn/ui · Radix UI · Recharts · Lucide Icons
+**Pruebas (Testing)**
+PHPUnit · k6 (load testing) · Vitest
 
-**Herramientas**
-Vite · Git · PHPUnit · React Hook Form · Zustand
+**Cloud & Servicios**
+Firebase · Backblaze B2
+
+**Frontend & UI**
+React 19 · TypeScript · Inertia.js · Alpine.js · Tailwind CSS · Framer Motion · shadcn/ui · Radix UI · Recharts
+
+**Herramientas de Desarrollo**
+Vite · React Hook Form · Zustand
 
 ---
 
